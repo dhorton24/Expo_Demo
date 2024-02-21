@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663276517249",
+    "project_id": "citex-website",
+    "storage_bucket": "citex-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663276517249:android:5b67750f748cc71fb51a80",
+        "android_client_info": {
+          "package_name": "com.example.expo_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663276517249-qvbvahembomk46idujuefbu1fue5ecuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihqYRAluWR9xufenBx5-wVz64BWNx374"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663276517249-qvbvahembomk46idujuefbu1fue5ecuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
